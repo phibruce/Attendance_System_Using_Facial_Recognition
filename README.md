@@ -7,7 +7,7 @@
 ### Features:
       1. Add new data: ID, Name, Images from real-time video.
       2. Attendance: Automately: Automatic attendance student via camera and display attendance history.
-![](Demo/Design Screen.png)
+![ ](Demo/Design Screen.png)
 ### Algorithms & Methods:
       1. Haar Cascade: Use algorithms to detect faces in camera frames.
       2. Local Binary Patterns Histograms: Use LBPH for features extraction and facial identification.

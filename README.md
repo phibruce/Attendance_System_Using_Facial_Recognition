@@ -1,7 +1,7 @@
 #  🤖 ATTENDANCE SYSTEM USING FACIAL RECOGNITION TECHNOLOGY 🤖
 
 
-## Build an automatic attendance system for students using facial recognition technology. Apply Haar Cascade algorithm and Local Binary Patterns Histogram method integrated in OpenCV. The system aims to increase efficiency and accuracy in attendance management, reduce cheating and save time for teachers and students.
+##       Build an automatic attendance system for students using facial recognition technology. Apply Haar Cascade algorithm and Local Binary Patterns Histogram method integrated in OpenCV. The system aims to increase efficiency and accuracy in attendance management, reduce cheating and save time for teachers and students.
 
 
 ### Features:
@@ -24,5 +24,5 @@
       - Display the list of students who have checked in.
 
 
-*Note1: You will install some libaries like numpy, pandas, dlib,... *
-*Note2: This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django.
+* Note1: You will install some libaries like numpy, pandas, dlib,... *
+* Note2: This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. *

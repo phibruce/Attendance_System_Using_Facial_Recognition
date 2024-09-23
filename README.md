@@ -8,8 +8,8 @@
       1. Add new data: ID, Name, Images from real-time video.
       2. Attendance: Automately: Automatic attendance student via camera and display attendance history.
 
-<div style="text-align: center;">
-<img src="Demo/Design Screen.png" alt="Screen Visualization" width="250" /> </div>
+
+<img src="Demo/Design Screen.png" alt="Screen Visualization" width="250" /> 
 
 ### Algorithms & Methods:
       1. Haar Cascade: Use algorithms to detect faces in camera frames.
@@ -26,6 +26,13 @@
       - Choose button "Điểm danh" to attendance student. Press "q" if you want to quit or wait a limited times.
       - Display the list of students who have checked in.
 
+<img src="Demo/main.png" alt="Main Screen" width="250" /> 
+
+<img src="Demo/enter info.bmp" alt="Enter Information" width="250" /> 
+
+<img src="Demo/Attendance.png" alt="Attendance" width="250" /> 
+
+<img src="Demo/history.png" alt="Attendance Histories" width="250" /> 
 
 Note: 
       1. You will install some libaries like numpy, pandas, dlib,... 

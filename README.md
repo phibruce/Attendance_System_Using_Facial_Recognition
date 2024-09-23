@@ -16,7 +16,7 @@
       1. Tkinter: For building user interfaces.
       2. OpenCV: Process images and integrate Haar & LBPH.
 
-## #How to work:
+### How to work:
       - First, download this project and run main.py
       - Then, enter your information (ID, Name) and choose "Chụp ảnh". The system will connect to the camera and take images automatically.
       - Next, choose "Lưu dữ liệu" for save the images which you have taken.
@@ -24,5 +24,5 @@
       - Display the list of students who have checked in.
 
 
-* Note1: You will install some libaries like numpy, pandas, dlib,... *
-* Note2: This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. *
+*_ Note1: You will install some libaries like numpy, pandas, dlib,... _
+*_ Note2: This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. _

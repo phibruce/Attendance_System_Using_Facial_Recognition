@@ -24,5 +24,5 @@
       - Display the list of students who have checked in.
 
 Note: 
-      - You will install some libaries like numpy, pandas, dlib,... 
-      - This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. 
+      1. You will install some libaries like numpy, pandas, dlib,... 
+      2. This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. 

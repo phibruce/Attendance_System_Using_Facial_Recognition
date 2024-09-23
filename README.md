@@ -23,6 +23,6 @@
       - Choose button "Điểm danh" to attendance student. Press "q" if you want to quit or wait a limited times.
       - Display the list of students who have checked in.
 
-
-*_ Note1: You will install some libaries like numpy, pandas, dlib,... _
-*_ Note2: This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. _
+Note: 
+      - You will install some libaries like numpy, pandas, dlib,... 
+      - This system is not have database and any complex features like Decentralization and statistics. But, I suggest you to use SQLite or use other franes like Flask, Django. 

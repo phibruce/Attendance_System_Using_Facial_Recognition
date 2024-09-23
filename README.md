@@ -30,7 +30,7 @@
 
 <img src="Demo/enter info.bmp" alt="Enter Information" width="250" /> 
 
-<img src="Demo/Attendance.png" alt="Attendance" width="250" /> 
+<img src="Demo/Attendance.bmp" alt="Attendance" width="250" /> 
 
 <img src="Demo/history.png" alt="Attendance Histories" width="250" /> 
 

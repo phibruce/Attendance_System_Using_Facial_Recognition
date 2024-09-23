@@ -7,7 +7,7 @@
 ### Features:
       1. Add new data: ID, Name, Images from real-time video.
       2. Attendance: Automately: Automatic attendance student via camera and display attendance history.
-      
+![](Demo/Design Screen.png)
 ### Algorithms & Methods:
       1. Haar Cascade: Use algorithms to detect faces in camera frames.
       2. Local Binary Patterns Histograms: Use LBPH for features extraction and facial identification.
@@ -22,6 +22,7 @@
       - Next, choose "Lưu dữ liệu" for save the images which you have taken.
       - Choose button "Điểm danh" to attendance student. Press "q" if you want to quit or wait a limited times.
       - Display the list of students who have checked in.
+
 
 Note: 
       1. You will install some libaries like numpy, pandas, dlib,... 
